@@ -16,7 +16,10 @@ Les Objectifs:
 
 Explorer les tendances et les schémas d'utilisation des vélos en libre-service à Londres en utilisant des techniques de visualisation efficaces. En combinant les aspects temporels, et météorologiques des données, nous espérons obtenir une vision approfondie de l'utilisation des vélos dans la ville.
 
+<body >
 
+
+<img src="" width="400">" width="400">
 
 
 
