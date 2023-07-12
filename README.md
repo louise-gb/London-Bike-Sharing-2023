@@ -26,6 +26,11 @@ Les périodes de l'année ou le partage de vélo se fait plus fréquemment:
 
 On remarque que les moments ou l'utilisation de vélo se fait le plus frequemment se trouvent en période estivale. Tandis que les moments ou l'utilisation de vélo se fait le moins fréquemment se trouvent en période hivernale. 
 
-<img src="" width="800" height="400">
+Ce graphique le prouve d'autant plus :
 
+<img src="Bike_sharing_season_weather.png" width="400" height="600">
+
+On remarque alors que les conditions météorologiques ont un réel impact sur l’utilisation des vélos dans la ville de Londres. En effet, les utilisateurs de vélos auront plus tendance à en faire lorsque le temps est "Clear", donc dégagé que quand la météo laisse percevoir de la pluie "Rain". 
+
+<img src="" width="400" height="600">
 
