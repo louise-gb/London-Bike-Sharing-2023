@@ -32,5 +32,19 @@ Ce graphique le prouve d'autant plus :
 
 On remarque alors que les conditions météorologiques ont un réel impact sur l’utilisation des vélos dans la ville de Londres. En effet, les utilisateurs de vélos auront plus tendance à en faire lorsque le temps est "Clear", donc dégagé que quand la météo laisse percevoir de la pluie "Rain". 
 
-<img src="" width="400" height="600">
+Argument prouvé par le graphique suivant: 
+
+<img src="Bike_sharing_weather.png" width="800" height="600">
+
+En conclusion, ce projet de visualisation des données sur le jeu de données "London Bike Sharing" nous a permis de découvrir des insights précieux sur l'utilisation des vélos en libre-service à Londres. Les visualisations ont révélé des schémas d'utilisation, des tendances saisonnières et des facteurs météorologiques qui influencent la demande de vélos. Ces informations peuvent être utilisées pour optimiser les ressources et promouvoir une mobilité urbaine durable. Cependant, des analyses plus approfondies et l'intégration de données supplémentaires seraient nécessaires pour obtenir une vue plus complète de l'utilisation des vélos en libre-service à Londres et pour faciliter la prise de décisions éclairées dans ce domaine.
+
+
+
+Sources des données: 
+Https://cycling.data.tfl.gov.uk/ 
+
+freemeteo.com - weather data
+
+https://www.gov.uk/bank-holidays
+From 1/1/2015 to 31/12/2016
 
