@@ -20,11 +20,11 @@ Explorer les tendances et les schémas d'utilisation des vélos en libre-service
 
 
 
-Les périodes de l'année ou le partage de vélo se fait plus fréquemment:
+Les périodes de l'année ou le partage de vélo se font plus fréquemment:
 
 <img src="Bike_sharing.png" width="800" height="400">
 
-On remarque que les moments ou l'utilisation de vélo se fait le plus frequemment se trouvent en période estivale. Tandis que les moments ou l'utilisation de vélo se fait le moins fréquemment se trouvent en période hivernale. 
+On remarque que les moments ou l'utilisation de vélo se font le plus fréquemment se trouvent en période estivale. Tandis que les moments ou l'utilisation de vélo se font le moins fréquemment se trouvent en période hivernale. 
 
 Ce graphique le prouve d'autant plus :
 
